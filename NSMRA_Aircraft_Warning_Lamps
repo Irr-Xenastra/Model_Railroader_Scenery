@@ -1,6 +1,8 @@
 /*
  Aircraft Warning Lamp System
 
+ This sketch was used with an Arduino Nano, with ATMega328.
+
  This code shows how to fade a set of LEDs on pins 3, 5, 6, 9, 10, and 11, using the analogWrite() function.
  Written for emulating aircraft warning lamp systems on model Bridges, Spans, Towers, Antennas, etc.
 
